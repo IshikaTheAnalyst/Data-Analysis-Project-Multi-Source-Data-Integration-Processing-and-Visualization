@@ -8,6 +8,6 @@ This project focuses on the comprehensive analysis of data sourced from various 
 **Report Generation:** Generate reports based on the analyzed data to communicate findings effectively.  
 
 **Tech Stack**
-Languages: Python
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
-Data Sources: CSVs, SQL databases, Excel files
+**Languages:** Python  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+**Data Sources:** CSVs, SQL databases, Excel files  
