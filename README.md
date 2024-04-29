@@ -7,7 +7,7 @@ This project focuses on the comprehensive analysis of data sourced from various 
 **Data Visualization:** Create informative visualizations using Matplotlib and Seaborn to uncover insights and trends in the data.  
 **Report Generation:** Generate reports based on the analyzed data to communicate findings effectively.  
 
-**Tech Stack**
+**Tech Stack**  
 **Languages:** Python  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
 **Data Sources:** CSVs, SQL databases, Excel files  
